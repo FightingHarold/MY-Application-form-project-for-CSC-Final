@@ -4,6 +4,8 @@ This is my first Python code I wrote on my own for an exam.
 
 A student enrollment management system built with Python's Tkinter library. Collects applicant information (personal details, parental information, fees, contact) and stores submissions in a text file with consent verification.
 
+Tools used: Python Idle version 3.12
+
 ##  Features
 
 - Student Information Form - Captures full name, age, contact details
